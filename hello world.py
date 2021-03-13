@@ -21,3 +21,8 @@ print(type(b))
 print(type(c))
 print(type(d))
 print(type(e))
+
+
+g = 2
+h = int(g)
+print(h)
